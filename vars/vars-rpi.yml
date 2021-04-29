@@ -4,7 +4,7 @@
 install_type: download-oracle
 #install_type: apt-oracle
 
-rpi_type: rpi3 #rpi2
+rpi_type: rpi4 #rpi3 #rpi2
 
 logstash_dir: /usr/share/logstash
 
